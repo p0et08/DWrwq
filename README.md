@@ -20,5 +20,6 @@ The PHPGurukul Online Shopping Portal Project version 2.1 contains a vulnerabili
 4.paste the below code into content and choose the Status 'In Process' then click update  
 ``<script>alert(1)</script>``  
 ![](./33.png)  
-
+![](./44.png)  
+![](./55.png)
 
