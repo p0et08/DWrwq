@@ -17,7 +17,10 @@ The PHPGurukul Online Shopping Portal Project version 2.1 contains a vulnerabili
 
 3.Access the Vulnerable Functionality : /shopping/admin/updateorder.php?oid=0  
 ![](./22.png)  
-4.
+4.paste the below code into content  
+``<script>alert(1)</script>``  
+![](./33.png)
+
 
 Craft and Upload a Malicious File / Payload : Upload a malicious PHP shell or inject command execution payloads (e.g., ;whoami, ;sleep 5) depending on the context of the vulnerability.
 
