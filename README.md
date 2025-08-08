@@ -9,7 +9,7 @@ The PHPGurukul Online Shopping Portal Project version 2.1 contains a vulnerabili
 
 # Steps to Reproduce
 
-1.Set Up the Application : Install and configure the vulnerable version (v2.0) on a local server. download from here  
+1.Set Up the Application : Install and configure the vulnerable version (v2.1) on a local server. download from here  
 ``https://phpgurukul.com/shopping-portal-free-download/``
 2.Login to the System : Use the default credentials provided by phpgurukul.  
 ``admin/Test@123``
