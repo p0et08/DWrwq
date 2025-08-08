@@ -21,5 +21,6 @@ The PHPGurukul Online Shopping Portal Project version 2.1 contains a vulnerabili
 ``<script>alert(1)</script>``  
 ![](./33.png)  
 ![](./44.png)  
-![](./55.png)
+![](./55.png)  
+4. Repeat into /shopping/admin/updateorder.php?oid=0  for a Stored Cross-Site Scripting (XSS)
 
