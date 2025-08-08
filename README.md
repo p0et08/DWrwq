@@ -10,10 +10,13 @@ The PHPGurukul Online Shopping Portal Project version 2.1 contains a vulnerabili
 # Steps to Reproduce
 
 1.Set Up the Application : Install and configure the vulnerable version (v2.1) on a local server. download from here  
-``https://phpgurukul.com/shopping-portal-free-download/``
+``https://phpgurukul.com/shopping-portal-free-download/``  
+
 2.Login to the System : Use the default credentials provided by phpgurukul.  
-``admin/Test@123``
+``admin/Test@123``  
+
 3.Access the Vulnerable Functionality : /shopping/admin/updateorder.php?oid=0  
+
 
 
 Craft and Upload a Malicious File / Payload : Upload a malicious PHP shell or inject command execution payloads (e.g., ;whoami, ;sleep 5) depending on the context of the vulnerability.
