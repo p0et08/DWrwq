@@ -1,5 +1,5 @@
 # Descrip
-The PHPGurukul Online Shopping Portal Project version 2.1 contains a vulnerability that leads to Stored Cross-Site Scripting (XSS). An attacker can exploit this vulnerability to execute arbitrary JavaScript code in the context of a user's session, potentially leading to account takeover.
+PHPGurukul Online Shopping Portal 2.1 is vulnerable to Cross Site Scripting (XSS) in /admin/updateorder.php.
 
 # Vulnerability Overview
 1.Vulnerability Type: Stored Cross-Site Scripting (XSS)  
@@ -22,5 +22,9 @@ The PHPGurukul Online Shopping Portal Project version 2.1 contains a vulnerabili
 ![](./33.png)  
 ![](./44.png)  
 ![](./55.png)  
-4. Repeat into /shopping/admin/updateorder.php?oid=0  for a Stored Cross-Site Scripting (XSS)
+5. Repeat into /shopping/admin/updateorder.php?oid=0  for a Stored Cross-Site Scripting (XSS)
+
+# Link
+``https://phpgurukul.com/shopping-portal-free-download/``
+
 
